@@ -1,0 +1,5 @@
+# ==========================================
+# 我自己手动维护的国外域名列表（优先合并且去重）
+# ==========================================
+DOMAIN-SUFFIX,my-private-foreign-site.com
+DOMAIN-KEYWORD,specialproxy
