@@ -1,8 +1,8 @@
 # ==========================================
 # 我自己手动维护的国内域名列表（优先合并且去重）
 # ==========================================
-DOMAIN-SUFFIX,my-private-foreign-site.com
-DOMAIN-KEYWORD,specialproxy
+DOMAIN-SUFFIX,
+DOMAIN-KEYWORD,
 DOMAIN-SUFFIX,ip.net.coffee
 DOMAIN-SUFFIX,h5.wanliffn.com
 DOMAIN-SUFFIX,nbwz.com
